@@ -4,7 +4,7 @@
 
 Jeg er en selvstendig fullstack-utvikler, som gradvis bygger min egen versjon av den digitale verdenen.
 Hvert kodingsprosjekt blir nøye utviklet fra grunnen av – fra planlegging og design, helt til løsningen av virkelige problemer ved hjelp av kode. 
-og nettstedet mitt er [salha.no](https://salha.no).
+Nettstedet mitt er [salha.no](https://salha.no).
 
 <p align="left">
    <a href="https://www.instagram.com/abdullah_salha_/">
