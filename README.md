@@ -1,8 +1,10 @@
 # 👋 Hei, jeg er Abdullah
 
-Fullstack-utvikler med bachelor i **informatikk og design av IT-systemer**.  
-Jeg bygger brukervennlige løsninger med fokus på ren kode, moderne teknologi og klart design.  
-Mine prosjekter og tjenester finner du på **[salha.no](https://salha.no)**.
+Fullstack-utvikler med bachelor i informatikk og design av IT-systemer.  
+Jeg utvikler moderne og brukervennlige løsninger med fokus på ren kode og god struktur.  
+Besøk gjerne porteføljen min på [salha.no](https://salha.no) for å se mer om meg og prosjektene jeg har jobbet med.
+
+
 
 
 ## 🧰 Språk & Teknologier
