@@ -4,7 +4,6 @@ Fullstack-utvikler med bachelor i **informatikk og design av IT-systemer**.
 Jeg bygger brukervennlige løsninger med fokus på ren kode, moderne teknologi og klart design.  
 Mine prosjekter og tjenester finner du på **[salha.no](https://salha.no)**.
 
----
 
 ## 🧰 Språk & Teknologier
 <p align="left">
@@ -20,7 +19,6 @@ Mine prosjekter og tjenester finner du på **[salha.no](https://salha.no)**.
   <img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
----
 
 ## 🚀 Utvalgte prosjekter
 - **SoClub** – aktivitetsapp i Kotlin/Compose med kart, GPS og innlogging  
@@ -30,7 +28,6 @@ Mine prosjekter og tjenester finner du på **[salha.no](https://salha.no)**.
 - **MovieSearch** – filmoppslag via ekstern API  
 - **MacsGamehub** – spillplattform med backend-integrasjon  
 
----
 
 ## 📫 Kontakt
 <p align="left">
