@@ -1,47 +1,50 @@
-# 👋 Hei!
+# 👋 Hei, jeg er Abdullah
 
-**`(Abdullah.equals("developer") ? "Coding Prodigy" : "Coffee Enthusiast";)`**
+Jeg jobber som junior fullstack-utvikler med fokus på å bygge løsninger som er enkle å bruke og enkle å vedlikeholde. Jeg liker å forstå problemet først, og deretter forme design, arkitektur og funksjonalitet slik at det faktisk løser noe for brukeren.
 
-Jeg er en selvstendig fullstack-utvikler, som gradvis bygger min egen versjon av den digitale verdenen.
-Hvert kodingsprosjekt blir nøye utviklet fra grunnen av – fra planlegging og design, helt til løsningen av virkelige problemer ved hjelp av kode. 
-Nettstedet mitt er [salha.no](https://salha.no).
-
-<p align="left">
-   <a href="https://www.instagram.com/abdullah_salha_/">
-      <img alt="instagram followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me%20%40abdullah_salha__-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+Jeg har erfaring fra frontend, backend, databaser og sky, og utvikler også egne prosjekter og tjenester gjennom **EGERA** og ulike apper og verktøy tilgjengelig på [salha.no](https://salha.no).
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Teknologier jeg jobber med
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img alt="next.js" title="Built with Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" style="padding-left:10px;"/>
+**Språk og rammeverk**  
+Java · Kotlin · JavaScript · TypeScript · Python · C · .NET · Node · Express · React · Next.js
 
-#
+**Web og UI**  
+HTML · CSS · Tailwind · Material Design · Vue · jQuery
 
-<details>
- <summary><h3>👨‍💻 Abdullah's Coding Journey</h3></summary>
-Min kodingreise begynte hjemmefra da jeg var ung, fascinert av HTML og CSS, og utforsket verdenen av webutvikling.
-Jeg lærte meg de grunnleggende konseptene og bygde mine første nettsider med en lidenskap for å skape noe digitalt og visuelt imponerende
-  
-Denne tidlige interessen drev meg til å forfølge en utdanning innen informatikk og design av IT-systemer ved Høgskolen i Østfold (Halden). 
-Her utvidet jeg mine kunnskaper og ferdigheter, og dykket dypere inn i forskjellige programmeringsspråk og konsepter innen informatikk.
+**Databaser**  
+SQL · PostgreSQL · MongoDB · Prisma · Firebase · Supabase
 
-I løpet av studiene har jeg utforsket det brede spekteret av programmeringsspråk og teknologier, og min lidenskap har vokst til å bli en full stack-utvikler.
-Jeg har en spesiell interesse for å skape helhetlige løsninger, fra front-end-design med moderne rammeverk til robust server-side-utvikling.
+**DevOps og sky**  
+Azure · Docker · GitHub · CI/CD · Postman
 
-Gjennom hele reisen min har jeg oppdaget gleden ved å utforske nye teknologier og metoder, og jeg er fast bestemt på å fortsette å utvikle meg som en allsidig kodingentusiast.
+**Annet**  
+Power Apps · HubSpot · Shopify · Sanity · WordPress · Webflow
 
-Nå, som jeg tar skritt mot å realisere drømmen min om å bygge mitt eget produkt, er jeg spent på å kombinere mine tidligere erfaringer og nylig tilegnede ferdigheter som en full stack-utvikler. Ikke vent, for jeg er på vei.
-[website]: https://salha.no
+---
 
+## 🚀 Utvalgte prosjekter
+
+- **SoClub** – sosial aktivitetsapp i Kotlin/Jetpack Compose med GPS, Maps API og full innlogging.  
+- **EGERA** – tjenester for SMB innen webutvikling, UX og digitalisering.  
+- **Salha.no** – portefølje bygget i Next.js, med egen AI-assistent basert på LangChain og OpenAI.  
+- **Pollify** – responsiv avstemningsplattform med brukerinnlogging.  
+- **MovieSearch** – filmoppslagstjeneste med ekstern API og responsivt UI.  
+- **MacsGamehub** – spillplattform med backend-integrasjon og brukersystem.
+
+---
+
+## 👨‍💻 Kort om meg
+
+Jeg liker å bygge ting som fungerer i praksis. Jeg lærer raskt, holder koden ryddig og jobber strukturert – enten jeg utvikler alene eller i team.  
+I praksisperioden hos **Visma SmartSkill** jobbet jeg med modernisering av digitale kalkulatorer brukt av over 350 kommuner, integrasjoner, dashboards og forbedringer i eksisterende løsninger.
+
+---
+
+## 📫 Kontakt
+
+- Nettside: **https://salha.no**  
+- LinkedIn: **https://linkedin.com/in/abdullah-salha-5b03b4252**  
+- E-post: **abdullahsalha4@gmail.com**
