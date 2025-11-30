@@ -1,13 +1,12 @@
-# 👋 Hei, jeg er Abdullah
+# 👋 Hi, I'm Abdullah
 
-Fullstack-utvikler med bachelor i informatikk og design av IT-systemer.  
-Jeg utvikler moderne og brukervennlige løsninger med fokus på ren kode og god struktur.  
-Besøk gjerne porteføljen min på [salha.no](https://salha.no) for å se mer om meg og prosjektene jeg har jobbet med.
+Fullstack developer with a bachelor's degree in Computer Science and IT Systems Design.  
+I build modern, user-friendly solutions with a focus on clean code, structure, and practical functionality.  
+Feel free to visit my portfolio at [salha.no](https://salha.no) to learn more about me and the projects I've worked on.
 
+---
 
-
-
-## 🧰 Språk & Teknologier
+## 🧰 Languages & Technologies
 <p align="left">
   <img alt="Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
