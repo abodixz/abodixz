@@ -1,53 +1,23 @@
 # 👋 Hei, jeg er Abdullah
 
 Fullstack-utvikler med bachelor i **informatikk og design av IT-systemer**.  
-Jeg bygger brukervennlige løsninger med fokus på ren kode, struktur og god funksjonalitet.  
-Jeg jobber med både frontend, backend og databaser – og utvikler egne prosjekter og tjenester på [salha.no](https://salha.no).
+Jeg bygger brukervennlige løsninger med fokus på ren kode, moderne teknologi og klart design.  
+Mine prosjekter og tjenester finner du på **[salha.no](https://salha.no)**.
 
 ---
 
-## 🧰 Teknologier jeg jobber mest med
-
-### 🌐 Frontend
-<p>
+## 🧰 Språk & Teknologier
+<p align="left">
+  <img alt="Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img alt=".NET" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img alt="TailwindCSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-</p>
-
----
-
-### 🖥️ Backend & API
-<p>
-  <img alt=".NET" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-  <img alt="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Express" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-  <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</p>
-
----
-
-### 🗄️ Databaser
-<p>
-  <img alt="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MongoDB" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="Firebase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  <img alt="Prisma" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
-</p>
-
----
-
-### ☁️ DevOps & Verktøy
-<p>
-  <img alt="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="Azure" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-  <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img alt="Postman" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+  <img alt="Android Studio" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  <img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
@@ -62,13 +32,17 @@ Jeg jobber med både frontend, backend og databaser – og utvikler egne prosjek
 
 ---
 
-## 👨‍💻 Kort om meg
-Jeg liker å bygge løsninger som fungerer i praksis. Jeg lærer raskt og jobber strukturert – både i team og alene.  
-I praksisperioden hos **Visma SmartSkill** jobbet jeg med modernisering av kalkulatorer brukt av 350+ kommuner og forbedring av eksisterende systemer.
-
----
-
 ## 📫 Kontakt
-- **Nettside:** https://salha.no  
-- **LinkedIn:** https://linkedin.com/in/abdullah-salha-5b03b4252  
-- **E-post:** abdullahsalha4@gmail.com  
+<p align="left">
+  <a href="https://salha.no" target="_blank">
+    <img alt="Website" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abdullah-salha-5b03b4252" target="_blank">
+    <img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdullahsalha4@gmail.com">
+    <img alt="Email" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+  </a>
+</p>
